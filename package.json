@@ -1,5 +1,5 @@
 {
-  "name": "ai-automation-roi-calculator",
+  "name": "ai-roi-calculator-popup-for-framer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,15 +10,14 @@
   },
   "dependencies": {
     "react": "^19.1.0",
+    "@google/genai": "^1.11.0",
     "react-dom": "^19.1.0",
-    "framer-motion": "^12.23.9",
-    "phosphor-react": "^1.4.1",
     "recharts": "^3.1.0",
-    "@google/genai": "^1.11.0"
+    "framer-motion": "^12.23.9"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "typescript": "~5.7.2",
+    "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
 }
