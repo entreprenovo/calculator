@@ -1,0 +1,6 @@
+{
+  "name": "AI ROI Calculator Popup for Framer",
+  "description": "An interactive, embeddable React component for Framer that calculates the potential Return on Investment (ROI) from AI automation. It functions as a self-contained popup, allowing users to input business metrics and receive a detailed analysis and AI-generated insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
